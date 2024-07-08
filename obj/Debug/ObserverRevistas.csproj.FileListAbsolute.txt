@@ -1,0 +1,10 @@
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ObserverPatron\ObserverRevistas\bin\Debug\ObserverRevistas.exe.config
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ObserverPatron\ObserverRevistas\bin\Debug\ObserverRevistas.exe
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ObserverPatron\ObserverRevistas\bin\Debug\ObserverRevistas.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ObserverPatron\ObserverRevistas\obj\Debug\ObserverRevistas.csproj.AssemblyReference.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ObserverPatron\ObserverRevistas\obj\Debug\ObserverRevistas.csproj.CoreCompileInputs.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ObserverPatron\ObserverRevistas\obj\Debug\ObserverRevistas.exe
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ObserverPatron\ObserverRevistas\obj\Debug\ObserverRevistas.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ObserverPatron\ObserverRevistas\bin\Debug\Entidades.dll
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ObserverPatron\ObserverRevistas\bin\Debug\Entidades.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ObserverPatron\ObserverRevistas\obj\Debug\Observer.D295120D.Up2Date
